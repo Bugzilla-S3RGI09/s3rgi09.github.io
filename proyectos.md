@@ -1,5 +1,4 @@
 # Proyectos
-![download](https://user-images.githubusercontent.com/96842235/167492285-bcc17e1d-cd94-49e5-8c72-28284c6b946c.svg)
 
 ## Hidden Web Server
 Estoy seguro de que alguna vez has echo un ```sudo service apache2/nginx start``` para crear un servidor web, pero, lo has echo en la red Tor? Pues aqui te enseñamos como.
