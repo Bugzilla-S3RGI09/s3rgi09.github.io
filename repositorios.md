@@ -4,7 +4,7 @@ En esta seccion publico **todos los repositorios de los scripts creados por mi *
 # Scan
 Scan es un script que sirve para escanear puertos. 
 
-´´´
+```
 #!/usr/bin/python3
 import nmap
 print("\033[2J\033[1;1f") # Borrar pantalla y situar cursor
@@ -53,5 +53,5 @@ for proto in nm[host].all_protocols():
 
 print("\nPuertos abiertos: "+ puertos_abiertos +" "+str(host))
 print("\033[1;34m"+"---------------------------------------------------------------------")
-´´´
+```
 
