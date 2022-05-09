@@ -1,5 +1,3 @@
-![EXP-401-course-icon](https://user-images.githubusercontent.com/96842235/167454685-aac70289-fe00-4501-8566-700eebfa6e46.svg)
-
 [Home](index.md) | [Repositorios](repositorios) | [Contacto](contacto)
 
 ## S3RGI09
