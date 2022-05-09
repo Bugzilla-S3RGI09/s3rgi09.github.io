@@ -1,7 +1,7 @@
 [home](index.md) | [repositorios](repositorios) | [contacto](contacto)
 
 # Repositorios
-En esta seccion publico **todos los repositorios de los scripts creados por mi **
+En esta seccion publico **todos los repositorios de los scripts creados por mi**
 
 # Scan
 Scan es un script que sirve para escanear puertos. 
