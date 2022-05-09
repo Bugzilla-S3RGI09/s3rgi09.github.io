@@ -1,4 +1,4 @@
-![noun_hacker_870666@1x-1](https://user-images.githubusercontent.com/96842235/167454322-6a4acd32-bc33-4a80-b02b-9f6a57d90983.png)
+![EXP-401-course-icon](https://user-images.githubusercontent.com/96842235/167454685-aac70289-fe00-4501-8566-700eebfa6e46.svg)
 
 [Home](index.md) | [Repositorios](repositorios) | [Contacto](contacto)
 
