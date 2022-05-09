@@ -30,6 +30,6 @@ Se varios lenguajes de programacion como ```HTML```, ```Python```, ```Bash```, `
 ### Contacto
 
 Si tienes un problema con un script contacta conmigo.
-[Instagram: S3RGI09__](https://instagram.com/S3RGI09__)
+[Instagram: S3RGI09__](https://instagram.com/s3rgi09__)
 [GitHub: S3RGI09](github.com/S3RGI09/)
 [Correo: sergiocaseroverdial@gmail.com](gmail.com)
