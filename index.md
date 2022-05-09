@@ -1,3 +1,5 @@
+[home](index.md)  [repositorios](repositorios)  [contacto](contacto)
+
 ## S3RGI09
 
 **Bienvenid@ a mi web personal.** Aqui publico varios articulos para enseñar pentest, programacion, hacking... a todo el mundo que le interese.
