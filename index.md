@@ -25,7 +25,7 @@ Nmap done: 1 IP address (1 host up) scanned in 2.58 seconds
 
 ### Lenguajes
 
-Se varios lenguajes de programacion como ```HTML```, ```Python```, ```Bash```, ```Ruby``` y bueno, ```Markdown```. Aparte de tener varios scripts creados en estos lenguajes en mi GitHub por si les quieres echar un ojo.
+Se varios lenguajes de programacion como **HTML,** **Python,** **Bash,** **Ruby** y bueno, **Markdown.** Aparte de tener varios scripts creados en estos lenguajes en mi GitHub por si les quieres echar un ojo.
 
 ### Contacto
 
