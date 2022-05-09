@@ -2,26 +2,25 @@
 
 **Bienvenid@ a mi web personal.** Aqui publico varios articulos para enseñar pentest, programacion, hacking... a todo el mundo que le interese.
 
-### Markdown
+### Herramientas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Yo siempre utilizo unas herramientas para el hacking lo más comodas y faciles de usar, siempre recomiendo que la primera herramienta que aprendais a usar sea Nmap, ya que es dificil que en algun momento, dejes de usarla, AL hacer un escaneo te tiene que salir asi:
 ```markdown
-Syntax highlighted code block
+┌──(sergio㉿kali)-[~]
+└─$ nmap -sT -n -Pn -T4 192.168.0.1
+Starting Nmap 7.92 ( https://nmap.org ) at 2022-05-09 17:16 CEST
+Nmap scan report for 192.168.0.1
+Host is up (0.016s latency).
+Not shown: 997 closed tcp ports (conn-refused)
+PORT     STATE    SERVICE
+80/tcp   open     http
+1900/tcp open     upnp
+8080/tcp filtered http-proxy
 
-# Header 1
-## Header 2
-### Header 3
+Nmap done: 1 IP address (1 host up) scanned in 2.58 seconds
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+┌──(sergio㉿kali)-[~]
+└─$ 
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
