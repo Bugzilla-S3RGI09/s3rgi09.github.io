@@ -4,7 +4,7 @@
 
 ### Herramientas
 
-Yo siempre utilizo unas herramientas para el hacking lo más comodas y faciles de usar, siempre recomiendo que la primera herramienta que aprendais a usar sea Nmap, ya que es dificil que en algun momento, dejes de usarla, AL hacer un escaneo te tiene que salir asi:
+Yo siempre utilizo unas herramientas para el hacking lo más comodas y faciles de usar, siempre recomiendo que la primera herramienta que aprendais a usar sea Nmap, ya que es dificil que en algun momento, dejes de usarla, al hacer un escaneo te tiene que salir asi:
 ```markdown
 ┌──(sergio㉿kali)-[~]
 └─$ nmap -sT -n -Pn -T4 192.168.0.1
@@ -23,12 +23,13 @@ Nmap done: 1 IP address (1 host up) scanned in 2.58 seconds
 └─$ 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Lenguajes
 
-### Jekyll Themes
+Se varios lenguajes de programacion como ```HTML```, ```Python```, ```Bash```, ```Ruby``` y bueno, ```Markdown```. Aparte de tener varios scripts creados en estos lenguajes en mi GitHub por si les quieres echar un ojo.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/S3RGI09/s3rgi09.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contacto
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Si tienes un problema con un script contacta conmigo.
+[Instagram: S3RGI09__](https://instagram.com/S3RGI09__)
+[GitHub: S3RGI09](github.com/S3RGI09/)
+[Correo: sergiocaseroverdial@gmail.com](gmail.com)
