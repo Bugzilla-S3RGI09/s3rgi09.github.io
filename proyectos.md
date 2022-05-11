@@ -51,3 +51,4 @@ Este script creado en Bash sirve para recuperar el script Scan. Es una herramien
 
 # Fin
 Le doy gracias a todo el mundo que a instalado Scan, a mi me alegra saber que estoy contribuyendo en ayudar a otras personas que comparten la misma pasion por la informatica que yo, la verdad, si yo hubiese tenido este script cuando habia aprendido medianamente nmap, me las habria gozado, literalmente podria estar ahora mismo en la carcel por haber hackeado la red wifi de el centro comercial de mi ciudad (Nunca lo e echo, NUNCA) espero que os halla servido esta informacion y sobre todo el script.
+
