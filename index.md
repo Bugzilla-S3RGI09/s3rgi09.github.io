@@ -33,3 +33,5 @@ Se varios lenguajes de programacion como **HTML,** **Python,** **Bash,** **Lua,*
 
 Si tienes un problema con un script contacta conmigo.
 [Mis redes](contacto)
+
+🄯S3RGI09
