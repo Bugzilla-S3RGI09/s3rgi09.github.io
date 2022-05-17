@@ -7,6 +7,13 @@ Web de proyectos [H4ckS0r7](https://h4cks0r7.github.io/)
 ## Mi GitHub 
 donde estan todas las herramientas [GitHub](https://github.com/S3RGI09?tab=repositories)
 
+# Manual de Pegasus
+Estoy seguro de que has escuchado hablar del poderoso spyware Pegasus de la empresa de ciberseguridad israelita NSO group, no me digas que nunca has deseado comprarlo, aunque sea para tenerlo de adorno, el caso es que por su desorbitado precio de 6.000.000$ nos conformamos por su manual de 15$, pero y si te digo que puedes conseguir su manual completamente gratis. Antes de empezar tengo que agradecer a S4vitar (Marcelo Vazquez) por dejar a toda la comunidad acceder a un pdf con el manual de Pegasus.
+![Captura de pantalla_2022-05-17_21-26-05](https://user-images.githubusercontent.com/96842235/168894062-0e271f60-a68d-473a-901a-be8765869559.png)
+![Captura de pantalla_2022-05-17_21-27-50](https://user-images.githubusercontent.com/96842235/168894369-07cc3360-a782-4ca4-b389-315d5e9502c0.png)
+### Link del pdf
+[Link para el manual de Pegasus](https://ia801005.us.archive.org/1/items/nso-pegasus/NSO-Pegasus.pdf)
+
 # Manual de instrucciones de Scan
 ![Añadir un subtítulo](https://user-images.githubusercontent.com/96842235/167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23.png)
 
