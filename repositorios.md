@@ -28,7 +28,7 @@ print("\033[1;33m"+"[Info] Herramienta para escanear los puertos abiertos de una
 print("\033[1;34m"+"  ||   Programada por S3RGI09 (Sergio Casero Verdial) "+'\033[0;m')
 print("\033[1;35m"+"* Para equipos mas antiguos: ScanLite en mi github"+'\033[0;m')
 print("\033[1;35m"+"* IG: s3rgi09__ | GitHub: S3RGI09")
-print("\033[0;37;41m"+"[=] Script con licencia GNU GPL y Apache Licence"+'\033[0;m')
+print("\033[0;37;41m"+"[=] Script con licencia GNU GPL, Apache Licence y Mozilla MPL"+'\033[0;m')
 print("\033[5;1;31;40m"+"[!] Puede cancelar el escaneo en cualquier momento haciendo: [Ctrl+C]"+'\033[0;m')
 print("\033[1;34m"+"---------------------------------------------------------------------"+'\033[0;m')
 host= input("\033[1;32m"+"[+] IP Objetivo ==> "+'\033[0;m') 
@@ -41,17 +41,17 @@ count=0
 print("\nHost : %s" % host)
 print("Estado : %s" % nm[host].state())
 for proto in nm[host].all_protocols():
-        print("Protocolo : %s" % proto)
-        print()
-        lport = nm[host][proto].keys()
-        sorted(lport)
-        for port in lport:
-                print ("Puerto : %s\tServicio : %s" % (port, nm[host][proto][port]["name"]))
-                if count==0:
-                        puertos_abiertos=puertos_abiertos+str(port)
-                        count=1
-                else:
-                        puertos_abiertos=puertos_abiertos+","+str(port)
+	print("Protocolo : %s" % proto)
+	print()
+	lport = nm[host][proto].keys()
+	sorted(lport)
+	for port in lport:
+		print ("Puerto : %s\tServicio : %s" % (port, nm[host][proto][port]["name"]))
+		if count==0:
+			puertos_abiertos=puertos_abiertos+str(port)
+			count=1
+		else:
+			puertos_abiertos=puertos_abiertos+","+str(port)
 
 print("\nPuertos abiertos: "+ puertos_abiertos +" "+str(host))
 print("\033[1;34m"+"---------------------------------------------------------------------")
