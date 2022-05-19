@@ -18,7 +18,7 @@ Estoy seguro de que has escuchado hablar del poderoso spyware Pegasus de la empr
 
 
 # Manual de instrucciones de Scan
-![167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23](https://user-images.githubusercontent.com/96842235/169378040-6bde5051-4ebe-44ea-a72a-f2040e170398.png)
+![167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23](https://user-images.githubusercontent.com/96842235/169378238-ce5da0d2-f192-453a-a87f-a82055293db4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,18 +34,18 @@ Hacer un escaneo con Nmap puede llegar a ser algo dificil para la gente que reci
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## No funciona el escaneo
-Si el escaneo no funciona, asegurate de que tienes el paquete Python-nmap instalado, si no lo tienes haz un "pip install python-nmap".
+Si el escaneo no funciona, asegurate de que tienes el paquete Python-nmap instalado, si no lo tienes haz un ```pip install python-nmap```.
 Si aun asi no funciona y te sale un error de sintaxis o de nombre, copia el codigo de Scan desde GitHub a tu script de Scan, esto puede ser porque alguien o tu ha tocado el codigo de Scan y a puesto algo que bloquee otra cosa.
 Si sigue sin funcionar y su pc o laptop tiene un hardware muy antiguo instale ScanLite, tambien en mi GitHub.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Como instalar Scan
-Para instalar el script es muy simple y hay dos opciones. La primera y la más facil es ejecutar en tu terminal "bash instalacion.sh", este archvio es un pequeño script que sirve para realizar todas las tareas para utilizar correctamente Scan sin errores. Y la segunda es seguir un pequeño resumen de la instalacion que haremos aqui:
+Para instalar el script es muy simple y hay dos opciones. La primera y la más facil es ejecutar en tu terminal ```ash instalacion.sh```, este archvio es un pequeño script que sirve para realizar todas las tareas para utilizar correctamente Scan sin errores. Y la segunda es seguir un pequeño resumen de la instalacion que haremos aqui:
 
-[Paso 1:] Vamos a empezar por lo basico, instalaremos la libreria Python-nmap, ponga en su consola: pip install python-nmap
+[Paso 1:] Vamos a empezar por lo basico, instalaremos la libreria Python-nmap, ponga en su consola: ```pip install python-nmap```
 
-[Paso 2:] Ahora hay que dar permisos de ejecucion al script y a todo lo necesario, ponga en su terminal los siguientes comandos, solo funciona en sistemas tipo UNIX-LIKE: chmod +x ./scan.py ./scan1.0.py RecoverScanScript.sh
+[Paso 2:] Ahora hay que dar permisos de ejecucion al script y a todo lo necesario, ponga en su terminal los siguientes comandos, solo funciona en sistemas tipo UNIX-LIKE: ```chmod +x ./scan.py ./scan1.0.py RecoverScanScript.sh```
 
 [Paso 3:] Ya hemos acabado, ahora puede borrar el archivo instalacion.sh si quiere, ahora a hackear y a pasarlo bien.
 
