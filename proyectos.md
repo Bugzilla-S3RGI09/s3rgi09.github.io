@@ -41,7 +41,7 @@ Si sigue sin funcionar y su pc o laptop tiene un hardware muy antiguo instale Sc
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Como instalar Scan
-Para instalar el script es muy simple y hay dos opciones. La primera y la más facil es ejecutar en tu terminal ```ash instalacion.sh```, este archvio es un pequeño script que sirve para realizar todas las tareas para utilizar correctamente Scan sin errores. Y la segunda es seguir un pequeño resumen de la instalacion que haremos aqui:
+Para instalar el script es muy simple y hay dos opciones. La primera y la más facil es ejecutar en tu terminal ```bash instalacion.sh```, este archvio es un pequeño script que sirve para realizar todas las tareas para utilizar correctamente Scan sin errores. Y la segunda es seguir un pequeño resumen de la instalacion que haremos aqui:
 
 [Paso 1:] Vamos a empezar por lo basico, instalaremos la libreria Python-nmap, ponga en su consola: ```pip install python-nmap```
 
