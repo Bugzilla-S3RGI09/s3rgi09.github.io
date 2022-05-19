@@ -18,7 +18,7 @@ Estoy seguro de que has escuchado hablar del poderoso spyware Pegasus de la empr
 
 
 # Manual de instrucciones de Scan
-![Añadir un subtítulo](https://user-images.githubusercontent.com/96842235/167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23.png)
+![167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23](https://user-images.githubusercontent.com/96842235/169378040-6bde5051-4ebe-44ea-a72a-f2040e170398.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
