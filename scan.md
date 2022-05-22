@@ -14,6 +14,15 @@ Herramienta para escanear puertos de una IP. El script escrito en python funcion
 Hacer un escaneo con Nmap puede llegar a ser algo dificil para la gente que recien a empezado en la informatica por culpa de todos sus parametros, yo lo que recomiendo es que si estas aprendiendo NO UTILICES ESTE SCRIPT, ya que lo unico que aprenderias sera a tenerlo todo echo. Pero si eres un profesional o un aficionado con conceptos avanzados sobre Nmap y su sondeo, este script solo te hara ahorrar tiempo. Para iniciar un escaneo es muy simple, solo vete al directorio donde tienes el archivo del script y haz en tu consola ```./scan.py``` si le has asignado permisos de ejecucion, si no tendras que hacer un ```python scan.py```, de las dos maneras tendras el script corriendo, ahora solo pon la IP a la que quieres hacer el escaneo, en unos 2-3 segundos tendras los resultados del escaneo en tu pantalla.
 ![Captura de pantalla_2022-05-08_22-04-01](https://user-images.githubusercontent.com/96842235/167313797-12f5d574-fc3d-4f9b-85e2-3de28296440d.png)
 
+Las cosas que hace Scan son varias, te las ponemos aqui en orden
+* Nombre del host/IP
+* Estado del host
+* Protocolo utilizado en los puertos
+* Numero del puerto
+* Servicio del puerto
+* Comando para el escaneo de puertos abiertos en Nmap
+Tambien cabe destacar que al ser software libre, puedes modificarlo para que te salga el estado de los puertos, las versiones, incluso la detencion de sistema operativo, entre otras cosas...
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## No funciona el escaneo
