@@ -1,3 +1,5 @@
+[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
+
 # Manual de instrucciones de Scan
 ![167315668-5b6290ae-3acd-451e-abb4-10b2fd353a23](https://user-images.githubusercontent.com/96842235/169378238-ce5da0d2-f192-453a-a87f-a82055293db4.png)
 
