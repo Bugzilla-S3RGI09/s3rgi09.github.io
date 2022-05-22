@@ -71,4 +71,7 @@ Se varios lenguajes de programacion como **HTML,** **Python,** **Bash,** **Lua,*
 Si tienes un problema con un script contacta conmigo.
 [Mis redes](contacto)
 
+### Paginas
+[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Buscador](Buscador) | [Contacto](contacto)
+
 🄯S3RGI09
