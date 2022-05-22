@@ -9,8 +9,6 @@ donde estan todas las herramientas [GitHub](https://github.com/S3RGI09?tab=repos
 
 # [Pegasus](pegasus)
 ![Captura de pantalla_2022-05-17_21-26-05](https://user-images.githubusercontent.com/96842235/168900959-304c6f8f-0507-45b9-a947-185a0e2b406d.png)
-[Pegasus](pegasus)
-
 
 
 
