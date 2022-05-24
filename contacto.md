@@ -1,8 +1,8 @@
-[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
+[Home](index.md) | [Repositorios](repositorios) | [Manuales](manuales) | [Contacto](contacto)
 
 # Contacto
-**---** **Instagram: s3rgi09__** **---**
+**[Instagram](https://instagram.com/s3rgi09__): s3rgi09__**
 
-**---** **GitHub: S3RGI09** **---**
+**[GitHub](https://github.com/S3RGI09): S3RGI09**
 
-**---** **Correo: sergiocaseroverdial@gmail.com** **---**
+**[Correo](sergiocaseroverdial@gmail.com): sergiocaseroverdial@gmail.com**
