@@ -1,4 +1,4 @@
-[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
+[Home](index.md) | [Repositorios](repositorios) | [Manuales](manuales) | [Contacto](contacto)
 
 ## S3RGI09
 
