@@ -1,4 +1,4 @@
-[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
+[Home](index.md) | [Repositorios](repositorios) | [Manuales](manuales) | [Contacto](contacto)
 
 # Repositorios
 En esta seccion publico **todos los repositorios de los scripts creados por mi**
