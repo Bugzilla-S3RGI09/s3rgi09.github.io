@@ -1,4 +1,4 @@
-[Home](index.md) | [Repositorios](repositorios) | [Proyectos](proyectos) | [Contacto](contacto)
+[Home](index.md) | [Repositorios](repositorios) | [manuales](manuales) | [Contacto](contacto)
 
 # Proyectos
 ## La web de los proyectos:
