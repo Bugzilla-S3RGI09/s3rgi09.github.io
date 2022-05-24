@@ -68,9 +68,11 @@ Se varios lenguajes de programacion como **HTML,** **Python,** **Bash,** **Lua,*
 
 ### Scripts
 
-Si alguna vez has programado, seguro que has echo un script. Bueno, esa misma es mi pasion, si quieres, puedes ver todos mis scripts en mi github, pero si quieres tener un todo en uno, clona el repositorio de **Scripts**, si quieres, descargala los repositorios en estos links
-**[Todos mis repositorios](https://github.com/S3RGI09)
-[Scripts en un repositorio](https://github.com/S3RGI09/Scripts)**
+Si alguna vez has programado, seguro que has echo un script. Bueno, esa misma es mi pasion, si quieres, puedes ver todos mis scripts en mi github, pero si quieres tener un todo en uno, clona el repositorio de **Scripts**, si quieres, descargala los repositorios en estos links.
+
+**[Todos mis repositorios](https://github.com/S3RGI09)**
+
+**[Scripts en un repositorio](https://github.com/S3RGI09/Scripts)**
 
 ### Contacto
 
